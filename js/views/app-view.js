@@ -1,4 +1,4 @@
-/*global Backbone, jQuery, _, ENTER_KEY */
+/*global Backbone, jQuery, _, ENTER_KEY , and objects generated during the application running */
 var app = app || {};
 
 (function ($) {

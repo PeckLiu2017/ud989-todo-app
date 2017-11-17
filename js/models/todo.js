@@ -1,6 +1,7 @@
-/*global Backbone */
+/* global Backbone and objects generated during the application running */
 var app = app || {};
 
+// all variable declared in IIFE don't pollute the global scope
 (function () {
 	'use strict';
 
